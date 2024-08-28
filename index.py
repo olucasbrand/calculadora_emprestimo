@@ -7,8 +7,10 @@ print('-=- Sistema de Empréstimo Bancário -=-')
 valorcasa = float(input('Informe o valor da casa: R$'))
 salario = float(input('Informe o seu salário: R$'))
 anos = int(input('Informe o total de anos para pagar: '))
+margem = float(input('Informe o valor da taxa de prestação mensal: ''%'))
+margemtotal = margem / 100
 mes = valorcasa / (anos * 12)
-casa = salario * 0.30
+casa = salario * margemtotal
 
 print('\nCalculando solicitação...')
 time.sleep(3)
