@@ -1,2 +1,7 @@
 # calculadora_emprestimo
-Projeto - calculadora de empréstimos bancários - Visando o calculo de tal com a margem de 30% do valor do salário mensal.
+Projeto - Calculadora De Emprestimo Bancário/Financiamento (PHYTON)
+
+- Backend .Py
+
+![image](https://github.com/user-attachments/assets/bf11b5ee-5f5d-472d-a0c8-b89b3cd5c5aa)
+
