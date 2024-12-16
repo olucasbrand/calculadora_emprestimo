@@ -1,5 +1,5 @@
 # calculadora_emprestimo
-Projeto - Calculadora De Emprestimo Bancário/Financiamento (PHYTON)
+Projeto - Calculadora De Emprestimo Bancário/Financiamento (PHYTON) - PROJETO NÃO FINALIZADO
 
 - Backend .Py
 
